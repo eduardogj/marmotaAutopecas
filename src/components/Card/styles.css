@@ -1,0 +1,23 @@
+.productCard {
+    height: 100%;
+    background-color: #FFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+}
+
+.productCard figure {
+  height: 50%;
+}
+
+.productCard img {
+  height: 100%;
+}
+
+.card-content p {
+    height: 3rem;
+    width: 50%;
+}
+
+span {
+  font-size: clamp(.8rem, 1.3vw, 1.5rem);
+}
